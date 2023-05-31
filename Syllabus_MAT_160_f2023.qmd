@@ -1,0 +1,104 @@
+---
+title: "Syllabus_MAT_160_f2023"
+author: Kathryn Kozak
+format:
+  html:
+    code-fold: true
+    table-of-contents: true
+    self-contained: true
+    fig-align: center
+    number-sections: true
+    code-tools: true
+# format: docx
+editor: visual
+---
+
+# Syllabus
+
+Coconino Community College
+
+Introduction to Statistics/Business Statistics and Analysis
+
+FALL 2023
+
+MAT 160/BUS 232, CREDIT HOURS: 3
+
+M W 10:00-11:15 Room 107
+
+::: {columns}
+::: column
+Instructor: Kathryn (Kate) Kozak Office: 447 Phone: 226-4277 Email: Kathryn.kozak\@coconino.edu
+
+([YouTube Playlist](https://www.youtube.com/watch?v=0kfqCTOiTbo&list=PLAA3GmNheEI81d6qKQGy72vSYpkcbDiAf))
+:::
+
+::: column
+Student Consulting Hours: Monday 9-10 Tuesday 2-4 Wednesday 9-10 Thursday 2-4 To meet me online use the link in the Canvas course. Or by appointment
+:::
+:::
+
+::: {columns}
+::: column
+Course Content will include: 1. Introduction: a. populations; b. sample; c. random variable; d. parameter; e. statistics; f. case studies g. ethics of statistics h. Data collection methods 2. descriptive statistics: a. central tendency b. variability c. graphical; 3. probability: a. event probability; b. conditional probability; c. mutually exclusive; d. independence; e. distributions: binomial, normal; student t 4. confidence interval estimate a. one population; b. two-populations 5. hypothesis testing:
+:::
+
+COURSE DESCRIPTION AND PREREQUISITE: Introduction to Statistics involves statistical tools and techniques used in applications. Includes collection of data, graphical and descriptive statistics, probability and probability distributions, point and interval estimates of population parameters, hypothesis testing, and correlation and regression. General Education: Mathematics. Three lecture. Prerequisite: \*Any college level math or placement.
+
+::: {column}
+a.  one population;
+b.  two population;
+c.  chi-squared test for independence;
+
+<!-- -->
+
+6.  regression:
+
+<!-- -->
+
+a.  simple linear regression equation;
+b.  prediction of response variable;
+
+<!-- -->
+
+7.  correlation:
+
+<!-- -->
+
+a.  correlation coefficient;
+b.  coefficient of determination
+
+<!-- -->
+
+8.  and applications Course Outcomes: Students will:
+9.  use statistical methods to collect, organize, analyze and interpret numerical data;
+10. create and interpret graphs of data;
+11. calculate and use measures of central tendency and variability;
+12. calculate probabilities for events or combinations of events;
+13. explain and use the Central Limit Theorem;
+14. estimate population parameters for one and two populations;
+:::
+:::
+
+::: {column} ::: column 7. recognize a variety of probability distributions; 8. interpret confidence intervals; 9. test hypotheses; 10. determine and interpret linear regression, coefficient of determination, correlation; ::: ::: column 11. solve application situations using a variety of statistical methods 12. use technology to solve a variety of statistical applications 13. interpret case studies 14. and discuss ethical issues in statistics.
+
+## COURSE REQUIREMENTS:
+
+-   Textbook: Statistics Using Technology, 3rd edition, Kathryn Kozak, ISBN: 978-0-359-84204-9. The book can be downloaded for free or purchased from Lulu.com. This [Link to Download](https://www.coconino.edu/open-source-textbooks) will take you to the page to download a free copy of the book, and this [Link to Buy Hardcopy](http://www.lulu.com/shop/kathryn-kozak/statistics-using-technology-third-edition/paperback/product-24204285.html) will take you to lulu.com where you can purchase a hard copy of the book.
+
+-   technology: : We will be using a software package called RStudio for this course. There is access through the Student Computer Lab or through [RStudio Server](https://rhive.coconino.edu). Students are expected to use RStudio for all computations. You should be able to complete this course with RStudio and a simple calculator like the one on your phone.
+
+-   Access to CANVAS and ability to perform basic computer skills
+
+## Course Policies
+
+::: {columns}
+::: column
+###Classroom Etiquette/Standards of Conduct: As a student, you deserve the respect of your fellow students and me. However, respect is earned, not just given. To earn the respect of your fellow students and me, you need to come to class prepared, pay attention and participate in class, listen to other's comments or questions, make comments that are constructive or helpful, and refrain from activities that disrupt the learning of others. Activities that disrupt the learning of others include texting in class, not having your cell phone on vibrate, answering your cell phone in class, working on Check Your Understanding (CYU) Problems during
+:::
+
+::: column
+class, talking to others in the class, and sleeping in class. If you feel the need to do any of these activities during class, please do them in the hall or go home. If you use a cell phone during a proctored test, you will get a 0 on the test. {image="images/classroom_image.gif" aria-label="A cartoon picture of students in class"} Groups should discuss the solution together prior to asking for help. If you ask for help, you will not be given the solution. You are to learn from this
+:::
+
+::: {columns} ::: column experience and you don't learn from just being given the solution. To succeed in the class, be an active member of the learning community. This means participate, ask questions, answer questions, and be engaged. This is a three credit hour course. That means for every hour in class, you can expect about 2 hours out of class learning course material to succeed in the course. You should budget at least 6 hours out of class to read the book, do the Check Your Understanding (CYU) Problems, review your notes, and ask for help. In order to succeed, it is suggested that you read the book,
+:::
